@@ -40,7 +40,7 @@ export default function ServicesStrip() {
         <ScrollReveal>
           <Typography sx={{ color: tokens.rust, fontWeight: 700, mb: 1 }}>Our core work: construction</Typography>
           <Typography variant="h2" sx={{ fontSize: { xs: "1.9rem", md: "2.4rem" }, mb: 5, maxWidth: 560 }}>
-            {data?.length ? `${data.length} services` : "Every service"}, one contractor you don&apos;t have to re-explain the job to.
+            {/* {data?.length ? `${data.length} services` : "Every service"}, */} one contractor you don&apos;t have to re-explain the job to.
           </Typography>
         </ScrollReveal>
 

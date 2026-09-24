@@ -10,7 +10,7 @@ import api, { imgUrl } from "@/lib/api";
 import useProfile from "@/hooks/useProfile";
 import { tokens } from "@/lib/theme";
 
-const trades = ["Building Construction", "Civil Work", "Renovation", "Roads & Paving", "Painting", "Electrical"];
+const trades = ["Building Construction", "Civil Work", "Renovation", "Roads & Paving", "Interior work", "All you want"];
 
 export default function Hero() {
   // a single orchestrated load-in sequence for the hero — not scattered
