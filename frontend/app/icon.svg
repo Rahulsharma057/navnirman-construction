@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Navnirman Construction">
+  <rect width="120" height="120" rx="14" fill="#1C2321"/>
+  <rect x="8" y="8" width="104" height="104" rx="9" fill="none" stroke="#B3491A" stroke-width="2"/>
+  <!-- rising sun / new-build arch (Nav = new, Nirman = construction) -->
+  <path d="M30 44 A30 30 0 0 1 90 44" fill="none" stroke="#EDE8DE" stroke-width="3" stroke-linecap="round" opacity=".55"/>
+  <path d="M60 10 L60 20 M36 18 L42 26 M84 18 L78 26" stroke="#B3491A" stroke-width="3" stroke-linecap="round"/>
+  <!-- bold N built from girders -->
+  <path d="M34 90 V44 H46 L74 74 V44 H86 V90 H74 L46 60 V90 Z" fill="#B3491A"/>
+  <path d="M34 96 H86" stroke="#EDE8DE" stroke-width="4" stroke-linecap="round"/>
+  <path d="M46 96 v6 M60 96 v6 M74 96 v6" stroke="#EDE8DE" stroke-width="2" stroke-linecap="round" opacity=".6"/>
+</svg>
