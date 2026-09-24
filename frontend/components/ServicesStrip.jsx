@@ -75,9 +75,9 @@ export default function ServicesStrip() {
                       {cat.name}
                     </Typography>
                     <Typography sx={{ color: "#5c584f", fontSize: "0.92rem", mt: 0.75 }}>{cat.description}</Typography>
-                    <Typography sx={{ color: tokens.steel, fontWeight: 700, fontSize: "0.85rem", mt: 2 }}>
+                 {/*    <Typography sx={{ color: tokens.steel, fontWeight: 700, fontSize: "0.85rem", mt: 2 }}>
                       {cat.workCount} completed {cat.workCount === 1 ? "job" : "jobs"}
-                    </Typography>
+                    </Typography> */}
                   </Box>
                 </ScrollReveal>
               </Grid>
