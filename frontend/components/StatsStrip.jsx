@@ -20,9 +20,9 @@ export default function StatsStrip() {
   });
 
   const stats = [
-    { value: pag?.total ? "28 +" : "–", label: "Projects delivered" },
+    { value: pag?.total ? "28 +" : "28 +", label: "Projects delivered" },
     { value: profile.yearsExperience ? `${profile.yearsExperience}+` : "–", label: "Years of experience" },
-    { value: cats?.length ? "12 +" : "–", label: "Services offered" },
+    { value: cats?.length ? "12 +" : "12 +", label: "Services offered" },
     { value: "GST", label: "Registered & compliant" },
   ];
 
